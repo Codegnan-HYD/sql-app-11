@@ -3,7 +3,7 @@ SQL application to implement one-to-one association (mandatory + bidirectional)
 
 ## Problem Statement
 
-### Vehicles & Registration Certificates
+### Orders & Invoices
 
 #### Data:
 * Order Data: Order Date and Total Amount.
